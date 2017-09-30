@@ -41,9 +41,17 @@ wget -q -O /usr/local/nmd/scripts/show-ban.sh https://raw.githubusercontent.com/
 echo -n '.'
 chmod 0755 /usr/local/nmd/scripts/show-ban.sh
 
+wget -q -O /usr/local/nmd/menu https://raw.githubusercontent.com/KeningauVPS/ihack/master/menu
+chmod 0755 /usr/local/nmd/scripts/menu
+
+
 wget -q -O /usr/local/nmd/scripts/unban.sh https://raw.githubusercontent.com/stylersnico/nmd/master/debian/scripts/unban.sh
 echo -n '.'
 chmod 0755 /usr/local/nmd/scripts/unban.sh
+
+wget -O menu https://raw.githubusercontent.com/KeningauVPS/ihack/master/menu
+mv ./menu /usr/local/bin/menu
+chmod +x /usr/local/bin/menu
 
 #White-list system
 echo; echo -n 'Downloading white-list system...'
