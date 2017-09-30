@@ -92,7 +92,7 @@ echo -e "\e[031;1m# ************************************************************
 	echo -e "\e[034;1m 8\e[0m)\e[40;38;5;57mAuto Limit Multi Login\e[0m\e[38;5;198m☆      ||彡\e[0m"
 	echo -e "\e[034;1m 9\e[0m)\e[40;38;5;57mdetail user SSH & OpenVPN\e[0m\e[38;5;198m☆   ||彡\e[0m"
 	echo -e "\e[034;1m10\e[0m)\e[40;38;5;57madd account and Expire Date\e[0m\e[38;5;198m☆ ||彡\e[0m" 
-        echo -e "\e[034;1m11\e[0m)\e[40;38;5;57mDelete Account Expire\e[38;5;198m☆            ||彡\e[0m"
+        echo -e "\e[034;1m11\e[0m)\e[40;38;5;57mDelete Account Expire   \e[38;5;198m☆         ||彡\e[0m"
 	echo -e "\e[034;1m12\e[0m)\e[40;38;5;57mDisable Account Expire\e[0m\e[38;5;198m☆      ||彡\e[0m"
         echo -e "\e[034;1m13\e[0m)\e[40;38;5;57mkill Multi Login\e[0m\e[38;5;198m☆            ||彡\e[0m"
 	echo -e "\e[034;1m14\e[0m)\e[40;38;5;57mblock Acc User SSH&OpenVPN\e[0m\e[38;5;198m☆  ||彡\e[0m"
